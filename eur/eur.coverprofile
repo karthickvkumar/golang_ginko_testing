@@ -1,0 +1,8 @@
+mode: atomic
+testing/eur/eur.go:2.54,3.14 1 6
+testing/eur/eur.go:4.3,7.15 3 1
+testing/eur/eur.go:8.3,11.14 3 1
+testing/eur/eur.go:12.3,15.16 3 1
+testing/eur/eur.go:16.5,19.16 3 1
+testing/eur/eur.go:20.5,23.16 3 1
+testing/eur/eur.go:24.5,25.17 1 1

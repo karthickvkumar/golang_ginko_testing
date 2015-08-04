@@ -1,0 +1,8 @@
+mode: atomic
+testing/usd/usd.go:2.54,3.14 1 6
+testing/usd/usd.go:4.3,7.15 3 1
+testing/usd/usd.go:8.3,11.14 3 1
+testing/usd/usd.go:12.3,15.16 3 1
+testing/usd/usd.go:16.5,19.16 3 1
+testing/usd/usd.go:20.5,23.16 3 1
+testing/usd/usd.go:24.5,25.17 1 1

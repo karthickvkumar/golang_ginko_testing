@@ -1,0 +1,27 @@
+mode: atomic
+testing/tax/tax.go:2.29,4.28 1 3
+testing/tax/tax.go:4.28,6.6 1 1
+testing/tax/tax.go:6.6,6.38 1 2
+testing/tax/tax.go:6.38,8.6 1 1
+testing/tax/tax.go:8.6,10.6 1 1
+testing/tax/tax.go:12.51,13.17 1 12
+testing/tax/tax.go:14.2,15.38 1 4
+testing/tax/tax.go:25.2,26.38 1 4
+testing/tax/tax.go:37.2,38.42 1 3
+testing/tax/tax.go:46.5,47.17 1 1
+testing/tax/tax.go:15.38,17.10 1 1
+testing/tax/tax.go:17.10,17.55 1 3
+testing/tax/tax.go:17.55,20.10 1 1
+testing/tax/tax.go:20.10,20.56 1 2
+testing/tax/tax.go:20.56,22.10 1 1
+testing/tax/tax.go:22.10,24.9 1 1
+testing/tax/tax.go:26.38,28.11 1 1
+testing/tax/tax.go:28.11,28.56 1 3
+testing/tax/tax.go:28.56,31.11 1 1
+testing/tax/tax.go:31.11,31.57 1 2
+testing/tax/tax.go:31.57,34.11 1 1
+testing/tax/tax.go:34.11,36.5 1 1
+testing/tax/tax.go:38.42,40.12 1 1
+testing/tax/tax.go:40.12,40.58 1 2
+testing/tax/tax.go:40.58,42.11 1 1
+testing/tax/tax.go:42.11,44.15 1 1
